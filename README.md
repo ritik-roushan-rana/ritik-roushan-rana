@@ -1,34 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,100:DCFCE7&height=200&section=header&text=Hi,%20I'm%20Ritik%20Rana&fontSize=42&fontColor=0F172A&fontAlignY=40&desc=App%20Developer%20%C2%B7%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=17&descColor=334155" width="100%"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/App%20Development-2563EB?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-16A34A?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20to%20Collab-F59E0B?style=flat-square&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EFF6FF,100:ECFDF5&height=210&section=header&text=RITIK%20RANA&fontSize=46&fontColor=0F172A&fontAlignY=38&desc=%3C%2F%3E%20App%20Developer%20%20%C2%B7%20%20%F0%9F%94%92%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=16&descColor=1E3A8A" width="100%"/>
 
 </div>
 
 <br/>
 
-## About Me
+<!-- Terminal window mock -->
+<table width="100%" style="border:1px solid #E2E8F0; border-radius:10px;">
+<tr>
+<td>
 
-- 🛠️ &nbsp;I build cross-platform apps using **Flutter / Dart**, with backend and automation work in **Python**
-- 🔐 &nbsp;Growing focus on **cybersecurity** — secure coding practices, network fundamentals, and system hardening
-- 🚀 &nbsp;Currently building **VTOUR** and **OptiFolio**
-- 📚 &nbsp;Learning how to design apps that are secure by default, not as an afterthought
-- 💬 &nbsp;Happy to talk Flutter, Firebase, Python, or app security basics
+```
+🔴  🟡  🟢    ritik@dev-machine: ~
+────────────────────────────────────────────────────
+$ whoami
+> Ritik Rana — App Developer & Security Enthusiast
+
+$ status --check
+> [✓] BUILDING     apps that people actually use
+> [✓] SECURING     code, one commit at a time
+> [✓] LEARNING     offensive & defensive security
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## Tech Stack
+## 🔍 &nbsp;`scan --target=about_me`
+
+| | |
+|---|---|
+| 🛠️ | Build cross-platform apps with **Flutter / Dart**, backend logic in **Python** |
+| 🔐 | Studying **application security** — secure coding, network fundamentals, system hardening |
+| 🚀 | Actively shipping **VTOUR** and **OptiFolio** |
+| 🧩 | Interested in the overlap between *building* software and *breaking* it — to build it better |
+| 📡 | Open to talk: Flutter, Firebase, Python automation, app security basics |
+
+<br/>
+
+## 🧰 &nbsp;`deploy --stack`
 
 <table width="100%">
 <tr>
 <td valign="top" width="33%">
 
-**App Development**
+**📱 App Development**
+> `STATUS: ACTIVE`
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/><br/>
@@ -38,7 +58,8 @@
 </td>
 <td valign="top" width="33%">
 
-**Languages**
+**💻 Languages**
+> `STATUS: COMPILED`
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
@@ -48,12 +69,13 @@
 </td>
 <td valign="top" width="33%">
 
-**Tools & Security**
+**🔒 Security & Tools**
+> `STATUS: MONITORING`
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 </td>
 </tr>
@@ -61,43 +83,43 @@
 
 <br/>
 
-## Featured Projects
+## 📦 &nbsp;`ls -la ./featured_builds`
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 [VTOUR](https://github.com/ritik-roushan-rana/VTOUR)
-Flutter-based virtual tour application
+#### 🧭 [VTOUR](https://github.com/ritik-roushan-rana/VTOUR)
+`build_type:` Flutter virtual tour app
 <br/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/github/stars/ritik-roushan-rana/VTOUR?style=flat-square&color=DCFCE7&labelColor=16A34A"/>
+<img src="https://img.shields.io/github/stars/ritik-roushan-rana/VTOUR?style=flat-square&color=ECFDF5&labelColor=15803D"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 📁 [OptiFolio](https://github.com/ritik-roushan-rana/OptiFolio)
-Flutter-based portfolio management app
+#### 📁 [OptiFolio](https://github.com/ritik-roushan-rana/OptiFolio)
+`build_type:` Flutter portfolio manager
 <br/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/github/stars/ritik-roushan-rana/OptiFolio?style=flat-square&color=DCFCE7&labelColor=16A34A"/>
+<img src="https://img.shields.io/github/stars/ritik-roushan-rana/OptiFolio?style=flat-square&color=ECFDF5&labelColor=15803D"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚨 [Emergency_vehicle](https://github.com/ritik-roushan-rana/Emergency_vehicle)
-Python-based emergency vehicle detection system
+#### 🚨 [Emergency_vehicle](https://github.com/ritik-roushan-rana/Emergency_vehicle)
+`build_type:` Python detection system
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/github/stars/ritik-roushan-rana/Emergency_vehicle?style=flat-square&color=DCFCE7&labelColor=16A34A"/>
+<img src="https://img.shields.io/github/stars/ritik-roushan-rana/Emergency_vehicle?style=flat-square&color=ECFDF5&labelColor=15803D"/>
 
 </td>
 <td width="50%" valign="top">
 
-### ✅ [Organizo](https://github.com/ritik-roushan-rana/Organizo)
-Task manager website for everyday productivity
+#### ✅ [Organizo](https://github.com/ritik-roushan-rana/Organizo)
+`build_type:` Task manager web app
 <br/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
@@ -106,16 +128,16 @@ Task manager website for everyday productivity
 <tr>
 <td width="50%" valign="top">
 
-### 💼 [Portfolio](https://github.com/ritik-roushan-rana/Portfolio)
-Personal developer portfolio website
+#### 💼 [Portfolio](https://github.com/ritik-roushan-rana/Portfolio)
+`build_type:` Personal developer portfolio
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [web-project](https://github.com/ritik-roushan-rana/web-project)
-Web development practice project
+#### 🌐 [web-project](https://github.com/ritik-roushan-rana/web-project)
+`build_type:` Web dev practice project
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
@@ -125,20 +147,20 @@ Web development practice project
 
 <br/>
 
-## GitHub Stats
+## 📊 &nbsp;`report --analytics`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ritik-roushan-rana&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1D4ED8&icon_color=16A34A&text_color=334155" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ritik-roushan-rana&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1D4ED8&icon_color=15803D&text_color=334155" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-roushan-rana&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1D4ED8&text_color=334155" width="42%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik-roushan-rana&theme=default&hide_border=true&background=ffffff&stroke=1D4ED8&ring=16A34A&fire=F59E0B&currStreakLabel=1D4ED8" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik-roushan-rana&theme=default&hide_border=true&background=ffffff&stroke=1D4ED8&ring=15803D&fire=D97706&currStreakLabel=1D4ED8" width="65%"/>
 
 </div>
 
 <br/>
 
-## Connect
+## 🔗 &nbsp;`connect --secure`
 
 <div align="center">
 
@@ -148,8 +170,14 @@ Web development practice project
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ritik-roushan-rana&style=flat-square&color=16A34A&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=ritik-roushan-rana&style=flat-square&color=15803D&label=Profile+Views"/>
+
+<br/><br/>
+
+```
+> connection secured. thanks for stopping by 🔐
+```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCFCE7,100:E0F2FE&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ECFDF5,100:EFF6FF&height=100&section=footer" width="100%"/>
