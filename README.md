@@ -2,53 +2,43 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EFF6FF,100:ECFDF5&height=210&section=header&text=RITIK%20RANA&fontSize=46&fontColor=0F172A&fontAlignY=38&desc=%3C%2F%3E%20App%20Developer%20%20%C2%B7%20%20%F0%9F%94%92%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=16&descColor=1E3A8A" width="100%"/>
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1D4ED8&center=true&vCenter=true&width=580&lines=whoami+%3E+Ritik+Rana;building+apps+%7C+securing+code;Flutter+%C2%B7+Python+%C2%B7+JavaScript" alt="Typing SVG"/>
+
 </div>
 
 <br/>
 
-<!-- Terminal window mock -->
-<table width="100%" style="border:1px solid #E2E8F0; border-radius:10px;">
-<tr>
-<td>
-
+```text
+ritik@dev-machine:~$ status --check
+[✓] BUILDING     apps that people actually use
+[✓] SECURING     code, one commit at a time
+[✓] LEARNING     offensive & defensive security
 ```
-🔴  🟡  🟢    ritik@dev-machine: ~
-────────────────────────────────────────────────────
-$ whoami
-> Ritik Rana — App Developer & Security Enthusiast
-
-$ status --check
-> [✓] BUILDING     apps that people actually use
-> [✓] SECURING     code, one commit at a time
-> [✓] LEARNING     offensive & defensive security
-```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
-## 🔍 &nbsp;`scan --target=about_me`
+## 🔍&nbsp; `scan --target=about_me`
 
-| | |
-|---|---|
-| 🛠️ | Build cross-platform apps with **Flutter / Dart**, backend logic in **Python** |
-| 🔐 | Studying **application security** — secure coding, network fundamentals, system hardening |
-| 🚀 | Actively shipping **VTOUR** and **OptiFolio** |
-| 🧩 | Interested in the overlap between *building* software and *breaking* it — to build it better |
-| 📡 | Open to talk: Flutter, Firebase, Python automation, app security basics |
+- 🛠️&nbsp; Build cross-platform apps with **Flutter / Dart**, backend logic in **Python**
+- 🔐&nbsp; Studying **application security** — secure coding, network fundamentals, system hardening
+- 🚀&nbsp; Actively shipping **VTOUR** and **OptiFolio**
+- 🧩&nbsp; Interested in the overlap between *building* software and *breaking* it — to build it better
+- 📡&nbsp; Open to talk: Flutter, Firebase, Python automation, app security basics
 
 <br/>
 
-## 🧰 &nbsp;`deploy --stack`
+## 🧰&nbsp; `deploy --stack`
 
 <table width="100%">
 <tr>
-<td valign="top" width="33%">
-
-**📱 App Development**
-> `STATUS: ACTIVE`
+<th align="left" width="33%">📱 App Development</th>
+<th align="left" width="33%">💻 Languages</th>
+<th align="left" width="33%">🔒 Security & Tools</th>
+</tr>
+<tr>
+<td valign="top">
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/><br/>
@@ -56,10 +46,7 @@ $ status --check
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
 </td>
-<td valign="top" width="33%">
-
-**💻 Languages**
-> `STATUS: COMPILED`
+<td valign="top">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
@@ -67,10 +54,7 @@ $ status --check
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 </td>
-<td valign="top" width="33%">
-
-**🔒 Security & Tools**
-> `STATUS: MONITORING`
+<td valign="top">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><br/>
@@ -83,7 +67,22 @@ $ status --check
 
 <br/>
 
-## 📦 &nbsp;`ls -la ./featured_builds`
+## 🧪&nbsp; `learning --in-progress`
+
+<table width="100%">
+<tr>
+<td width="50%">🌐&nbsp; Network fundamentals — TCP/IP, DNS, common attack surfaces</td>
+<td width="50%">🧱&nbsp; Secure coding practices for mobile & web apps</td>
+</tr>
+<tr>
+<td width="50%">🕵️&nbsp; Intro to penetration testing concepts</td>
+<td width="50%">☁️&nbsp; Firebase security rules & auth best practices</td>
+</tr>
+</table>
+
+<br/>
+
+## 📦&nbsp; `ls -la ./featured_builds`
 
 <table width="100%">
 <tr>
@@ -147,7 +146,7 @@ $ status --check
 
 <br/>
 
-## 📊 &nbsp;`report --analytics`
+## 📊&nbsp; `report --analytics`
 
 <div align="center">
 
@@ -160,7 +159,7 @@ $ status --check
 
 <br/>
 
-## 🔗 &nbsp;`connect --secure`
+## 🔗&nbsp; `connect --secure`
 
 <div align="center">
 
@@ -174,7 +173,7 @@ $ status --check
 
 <br/><br/>
 
-```
+```text
 > connection secured. thanks for stopping by 🔐
 ```
 
