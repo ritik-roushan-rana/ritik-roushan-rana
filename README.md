@@ -1,95 +1,109 @@
-<div align="center">
+```
+ ██▀███   ██▓▄▄▄█████▓ ██▓ ██ ▄█▀
+▓██ ▒ ██▒▓██▒▓  ██▒ ▓▒▓██▒ ██▄█▒
+▓██ ░▄█ ▒▒██▒▒ ▓██░ ▒░▒██▒▓███▄░
+▒██▀▀█▄  ░██░░ ▓██▓ ░ ░██░▓██ █▄
+░██▓ ▒██▒░██░  ▒██▒ ░ ░██░▒██▒ █▄
+░ ▒▓ ░▒▓░░▓    ▒ ░░   ░▓  ▒ ▒▒ ▓▒
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:15803D&height=200&section=header&text=Ritik%20Rana&fontSize=54&fontColor=39FF9C&fontAlignY=36&desc=App%20Developer%20%C2%B7%20Cybersecurity%20Enthusiast&descAlignY=56&descSize=16&animation=fadeIn" width="100%"/>
+app developer · cybersecurity enthusiast
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=800&color=39FF9C&center=true&vCenter=true&width=620&lines=Building+secure+mobile+%26+web+apps;Flutter+%C2%B7+Dart+%C2%B7+Python+%C2%B7+JavaScript;Breaking+things+to+build+them+better+%F0%9F%94%90" alt="Typing SVG"/>
+```console
+$ whoami
+ritik-roushan-rana
+
+$ cat focus.txt
+cross-platform apps in flutter/dart, backend + automation in python,
+and a standing interest in how all of it breaks.
+
+$ status
+building VTOUR and OptiFolio · learning pentesting fundamentals
+```
+
+<a href="https://github.com/ritik-roushan-rana?tab=followers"><img src="https://img.shields.io/github/followers/ritik-roushan-rana?style=flat-square&color=58A6FF&labelColor=0D1117&label=followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=ritik-roushan-rana&style=flat-square&color=58A6FF&labelColor=0D1117&label=views"/>
 
 <br/>
 
-<a href="https://github.com/ritik-roushan-rana?tab=followers"><img src="https://img.shields.io/github/followers/ritik-roushan-rana?style=flat-square&color=39FF9C&labelColor=0F172A&label=followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=ritik-roushan-rana&style=flat-square&color=39FF9C&labelColor=0F172A&label=profile+views"/>
+──────────────────────────────────────────────
 
-</div>
+### About
 
----
+I build cross-platform apps with Flutter and back them with Python — and I care as
+much about how they hold up under attack as how they look.
 
-## About
+Working on secure coding, threat modeling, and system hardening. Currently shipping
+[VTOUR](https://github.com/ritik-roushan-rana/VTOUR) and
+[OptiFolio](https://github.com/ritik-roushan-rana/OptiFolio), and picking up pentesting
+fundamentals and network security along the way.
 
-I build cross-platform apps with **Flutter** and back them with **Python** — and I care as much about how they hold up under attack as how they look.
+Happy to talk about Flutter, Firebase, Python automation, or application security.
 
-- 🛠️ Cross-platform apps in **Flutter / Dart**, backend logic and automation in **Python**
-- 🔐 Focused on **secure coding**, threat modeling, and system hardening
-- 🚀 Currently building **[VTOUR](https://github.com/ritik-roushan-rana/VTOUR)** and **[OptiFolio](https://github.com/ritik-roushan-rana/OptiFolio)**
-- 🧠 Learning pentesting fundamentals, network security, and secure app architecture
-- 📡 Ask me about Flutter, Firebase, Python automation, and application security
+<br/>
 
----
+──────────────────────────────────────────────
 
-## Tech Stack
+### Stack
 
-**Mobile & Frontend**
+`mobile`&nbsp;&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=58A6FF)
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=58A6FF)
+![Android](https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=58A6FF)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=58A6FF)
 
-![Flutter](https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=38BDF8)
-![Dart](https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=38BDF8)
-![Android](https://img.shields.io/badge/Android-0F172A?style=flat-square&logo=android&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=FB923C)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=38BDF8)
+`languages`&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=58A6FF)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=58A6FF)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=58A6FF)
 
-**Backend & Languages**
+`security`&nbsp;&nbsp;
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=58A6FF)
+![Kali](https://img.shields.io/badge/Kali-0D1117?style=flat-square&logo=kalilinux&logoColor=58A6FF)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=58A6FF)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=58A6FF)
 
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FACC15)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=FACC15)
-![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=FACC15)
+`tooling`&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=58A6FF)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=58A6FF)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=58A6FF)
 
-**Security & Tooling**
+<br/>
 
-![Linux](https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=39FF9C)
-![Kali](https://img.shields.io/badge/Kali_Linux-0F172A?style=flat-square&logo=kalilinux&logoColor=39FF9C)
-![Wireshark](https://img.shields.io/badge/Wireshark-0F172A?style=flat-square&logo=wireshark&logoColor=39FF9C)
-![Nmap](https://img.shields.io/badge/Nmap-0F172A?style=flat-square&logo=nmap&logoColor=39FF9C)
-![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F87171)
-![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=flat-square&logo=visualstudiocode&logoColor=38BDF8)
-![Postman](https://img.shields.io/badge/Postman-0F172A?style=flat-square&logo=postman&logoColor=FB923C)
+──────────────────────────────────────────────
 
----
+### Projects
 
-## Projects
-
-| Project | What it does | Built with |
+| | | |
 |---|---|---|
-| 🧭 **[VTOUR](https://github.com/ritik-roushan-rana/VTOUR)** | Virtual tour app for exploring places remotely | Flutter · Dart |
-| 📁 **[OptiFolio](https://github.com/ritik-roushan-rana/OptiFolio)** | Portfolio management and tracking app | Flutter · Dart |
-| 🚨 **[Emergency Vehicle](https://github.com/ritik-roushan-rana/Emergency_vehicle)** | Emergency vehicle detection and priority routing | Python |
-| ✅ **[Organizo](https://github.com/ritik-roushan-rana/Organizo)** | Task manager for daily productivity | HTML · CSS |
-| 💼 **[Portfolio](https://github.com/ritik-roushan-rana/Portfolio)** | Personal developer portfolio site | JavaScript |
+| **[VTOUR](https://github.com/ritik-roushan-rana/VTOUR)** | Virtual tour app for exploring places remotely | `flutter` `dart` |
+| **[OptiFolio](https://github.com/ritik-roushan-rana/OptiFolio)** | Portfolio management and tracking | `flutter` `dart` |
+| **[Emergency Vehicle](https://github.com/ritik-roushan-rana/Emergency_vehicle)** | Detection and priority routing for emergency vehicles | `python` |
+| **[Organizo](https://github.com/ritik-roushan-rana/Organizo)** | Task manager for daily productivity | `html` `css` |
+| **[Portfolio](https://github.com/ritik-roushan-rana/Portfolio)** | Personal developer portfolio site | `javascript` |
 
----
+<br/>
 
-## GitHub Stats
+──────────────────────────────────────────────
 
-<div align="center">
+### Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=ritik-roushan-rana&show_icons=true&hide_border=true&theme=react&bg_color=0F172A&title_color=39FF9C&icon_color=38BDF8&text_color=E2E8F0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-roushan-rana&layout=compact&hide_border=true&theme=react&bg_color=0F172A&title_color=39FF9C&text_color=E2E8F0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ritik-roushan-rana&show_icons=true&hide_border=true&hide_title=true&theme=github_dark&bg_color=0D1117&icon_color=58A6FF&text_color=8B949E&ring_color=58A6FF" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-roushan-rana&layout=compact&hide_border=true&hide_title=true&theme=github_dark&bg_color=0D1117&text_color=8B949E" height="150"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritik-roushan-rana&theme=react-dark&bg_color=0F172A&color=39FF9C&line=39FF9C&point=FACC15&area=true&hide_border=true" width="98%"/>
+<br/>
 
-</div>
+──────────────────────────────────────────────
 
----
+### Elsewhere
 
-## Connect
+[github](https://github.com/ritik-roushan-rana) &nbsp;·&nbsp;
+[linkedin](#) &nbsp;·&nbsp;
+[email](mailto:ritikranawork@gmail.com)
 
-<div align="center">
+<br/>
 
-<a href="https://github.com/ritik-roushan-rana"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=39FF9C"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
-<a href="mailto:ritikranawork@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=F87171"/></a>
-
-<br/><br/>
-
-<sub>Thanks for stopping by — star a repo, fork a project, or say hi.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:15803D,100:0F172A&height=100&section=footer" width="100%"/>
+```
+$ exit
+```
