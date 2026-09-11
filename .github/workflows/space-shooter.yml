@@ -13,11 +13,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 2
 
+      # Generate the animation but leave it in the workspace: the name is
+      # stamped on every frame before it is committed.
       - uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: "gh-space-shooter.webp"
           strategy: "random"
+          no-commit: "true"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install --quiet pillow
+      - run: python scripts/stamp_name.py gh-space-shooter.webp "RITIK ROUSHAN RANA"
+
+      - name: Commit the animation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add gh-space-shooter.webp
+          git diff --cached --quiet || git commit -m "Update space shooter animation"
+          git push
