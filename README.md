@@ -39,8 +39,3 @@ Currently building predictive models and data pipelines, going deeper into neura
 `Python` `PyTorch` `Stable-Baselines3` `XGBoost` `OpenCV` `FastAPI` &nbsp;·&nbsp; `TypeScript` `React` `Next.js` `Flutter` &nbsp;·&nbsp; `SQL` `Supabase` `Docker` `Git` &nbsp;·&nbsp; `Kali Linux` `Wireshark` `ELK`
 
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritik-roushan-rana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=e6a23c&hide_title=true&hide_rank=true" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ritik-roushan-rana&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&hide_title=true&langs_count=6" height="150" alt="Top languages"/>
-</p>
