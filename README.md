@@ -40,17 +40,7 @@ Currently building predictive models and data pipelines, going deeper into neura
 
 <br/>
 
-### Experience
-
-**Artificial Intelligence Intern** — Martvalley Online, 2025<br/>
-Real-time AI modules across 5+ projects; cut end-to-end latency by 30% and raised accuracy on a 5,000-images-a-week pipeline.
-
-**Cyber Security Analyst Intern** — IBM Career Education Program, 2025<br/>
-Threat analysis, vulnerability monitoring and defensive hardening in simulated environments.
-
-<br/>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritik-roushan-rana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=e6a23c&hide_title=true&hide_rank=true" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-roushan-rana&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&hide_title=true&langs_count=6" height="150" alt="Top languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritik-roushan-rana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=e6a23c&hide_title=true&hide_rank=true" height="150" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ritik-roushan-rana&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&hide_title=true&langs_count=6" height="150" alt="Top languages"/>
 </p>
