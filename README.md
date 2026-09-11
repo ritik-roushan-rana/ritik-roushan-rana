@@ -1,15 +1,13 @@
-<h1 align="center">Ritik Roushan Rana</h1>
+<img align="center" width="100%" src="banner.jpg" alt="Hello, I'm Ritik." />
 
 <p align="center">
-  Machine Learning Engineer &nbsp;·&nbsp; Final-year CSE (InfoSec), VIT Vellore &nbsp;·&nbsp; New Delhi
-</p>
-
-<p align="center">
-  <a href="https://ritikrana-me.vercel.app">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ritik-roushan-rana-b6a89528a/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:ritikrana8596@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://ritikrana-me.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ritik-roushan-rana-b6a89528a/">LinkedIn</a> •
+  <a href="mailto:ritikrana8596@gmail.com">Email</a> •
   <a href="https://drive.google.com/file/d/1624hR6m0SE-CpaeSzeEqpf6SO_tRj1FD/view?usp=sharing">Résumé</a>
 </p>
+
+<img align="center" width="100%" src="gh-space-shooter.webp" alt="Contribution graph as a space shooter" />
 
 <br/>
 
@@ -37,5 +35,3 @@ Currently building predictive models and data pipelines, going deeper into neura
 ### Stack
 
 `Python` `PyTorch` `Stable-Baselines3` `XGBoost` `OpenCV` `FastAPI` &nbsp;·&nbsp; `TypeScript` `React` `Next.js` `Flutter` &nbsp;·&nbsp; `SQL` `Supabase` `Docker` `Git` &nbsp;·&nbsp; `Kali Linux` `Wireshark` `ELK`
-
-<br/>
