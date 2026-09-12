@@ -1,7 +1,7 @@
 <img align="center" width="100%" src="banner.jpg" alt="Hello, I'm Ritik." />
 
 <p align="center">
-  <a href="https://ritikrana-me.vercel.app">Portfolio</a> •
+  <a href="https://ritikrana.online">Portfolio</a> •
   <a href="https://www.linkedin.com/in/ritik-roushan-rana-b6a89528a/">LinkedIn</a> •
   <a href="mailto:ritikrana8596@gmail.com">Email</a> •
   <a href="https://drive.google.com/file/d/1624hR6m0SE-CpaeSzeEqpf6SO_tRj1FD/view?usp=sharing">Résumé</a>
